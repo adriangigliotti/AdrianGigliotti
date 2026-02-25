@@ -12,16 +12,16 @@
 - 🤔 I’m looking for help with things
 - 💬 Ask me about things
 - 📫 How to reach me: adriangigliotti@protonmail.com
-- 😄 Pronouns: robot
-- ⚡ Fun fact: i am not a robot!
+- 😄 Pronouns: hacker/man
+- ⚡ Fun fact: I like coffee.. no.. I love it!
 
 ## About Me
 
 I'm Adrian Gigliotti, a penetration tester living in Australia.
 
-I have a Bachelor's Degree in Information Technology and I have the OSCP.
+I have a Bachelor's Degree in Information Technology and I currently hold: OSCP, CRTO, OSEP & OSWP.
 
-I'm an InfoSec enthusiast and I'm currently working as Security Consultant @ CyberCX.
+I'm an InfoSec enthusiast and I'm currently working as Senior Security Consultant @ CyberCX.
 
 As security consultant, I perform penetration tests which I test the security of applications simulating an attacker and executing the worst-case scenario in order to ensure that security countermeasures are performed.
 
